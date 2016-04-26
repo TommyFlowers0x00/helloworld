@@ -5,4 +5,5 @@ This is another comment about branching such, but this time I've included a comm
 I've just made some changes to clear up this file a bit.
 
 [20160426]
+
 This is just another edit to play with how a pull request works.
